@@ -3268,6 +3268,7 @@ var cnames_active = {
   "stethoscope": "stethoscope-js.github.io/stethoscope.js.org",
   "steven": "stpeng.github.io",
   "sticksy": "kovart.github.io/sticksy",
+  "stickygum": "code-hemu.github.io/stickygum",
   "stino": "stinobe.github.io/Stino",
   "stoatly": "stoatlyjs.github.io/website",
   "stockings": "kgroat.github.io/stockings",
